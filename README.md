@@ -82,17 +82,22 @@
     </td> <td align="center" width="250" valign="top">
       <b>Core BA Skills</b><br>
       
-      <img src="https://img.shields.io/badge/Requirements_Elicitation-217346?style=for-the-badge">
-      <br>
-      <img src="https://img.shields.io/badge/Stakeholder_Management-217346?style=for-the-badge">
-      <br>
-      <img src="https://img.shields.io/badge/BRD-217346?style=for-the-badge">
-      <img src="https://img.shields.io/badge/FRS-217346?style=for-the-badge">
-      <img src="https://img.shields.io/badge/User_Stories-217346?style=for-the-badge">
-      <img src="https://img.shields.io/badge/RTM-217346?style=for-the-badge">
-      <br>
-      <img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge">
-      <img src="https://img.shields.io/badge/UAT-217346?style=for-the-badge">
+      <div>
+        <img src="https://img.shields.io/badge/Requirements_Elicitation-217346?style=for-the-badge">
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Stakeholder_Management-217346?style=for-the-badge">
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/BRD-217346?style=for-the-badge">
+        <img src="https://img.shields.io/badge/FRS-217346?style=for-the-badge">
+        <img src="https://img.shields.io/badge/User_Stories-217346?style=for-the-badge">
+        <img src="https://img.shields.io/badge/RTM-217346?style=for-the-badge">
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/UAT-217346?style=for-the-badge">
+      </div>
     </td>
   </tr>
 </table>
