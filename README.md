@@ -79,7 +79,8 @@
       <b>Process Modeling</b><br>
       <img src="https://img.shields.io/badge/UML-F08705?style=for-the-badge">
       <img src="https://img.shields.io/badge/BPMN-F08705?style=for-the-badge">
-    </td> <td align="center" width="250" valign="top">
+    </td> 
+    <td align="center" width="250" valign="top">
       <b>Core BA Skills</b><br>
       
       <div>
