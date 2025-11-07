@@ -32,24 +32,24 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="top">
       <b>Data Analysis (Python)</b><br>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
       <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
       <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white">
       <img src="https://img.shields.io/badge/Seaborn-013243?style=for-the-badge&logoColor=white">
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="top">
       <b>Databases</b><br>
       <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="top">
       <b>Data Visualization</b><br>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
     </td>
-    <td align="center" width="200">
+    <td align="center" width="200" valign="top">
       <b>BA & Design Tools</b><br>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
@@ -67,7 +67,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="250" valign="top">
       <b>Methodologies</b><br>
       <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira">
       <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira">
@@ -75,44 +75,24 @@
       <img src="https://img.shields.io/badge/STLC-0052CC?style=for-the-badge">
       <img src="https://img.shields.io/badge/PLC-0052CC?style=for-the-badge">
     </td>
-    <td align="center" width="250">
+    <td align="center" width="250" valign="top">
       <b>Process Modeling</b><br>
       <img src="https://img.shields.io/badge/UML-F08705?style=for-the-badge">
       <img src="https://img.shields.io/badge/BPMN-F08705?style=for-the-badge">
-    <td align="center" width="250">
+    </td> <td align="center" width="250" valign="top">
       <b>Core BA Skills</b><br>
       
-      <table align="center" style="border: none; border-collapse: collapse;">
-        
-        <tr style="border: none;">
-          <td align="center" style="border: none; padding: 2px;">
-            <img src="https://img.shields.io/badge/Requirements_Elicitation-217346?style=for-the-badge">
-          </td>
-        </tr>
-        
-        <tr style="border: none;">
-          <td align="center" style="border: none; padding: 2px;">
-            <img src="https://img.shields.io/badge/Stakeholder_Management-217346?style=for-the-badge">
-          </td>
-        </tr>
-        
-        <tr style="border: none;">
-          <td align="center" style="border: none; padding: 2px;">
-            <img src="https://img.shields.io/badge/BRD-217346?style=for-the-badge">
-            <img src="https://img.shields.io/badge/FRS-217346?style=for-the-badge">
-            <img src="https://img.shields.io/badge/User_Stories-217346?style=for-the-badge">
-            <img src="https://img.shields.io/badge/RTM-217346?style=for-the-badge">
-          </td>
-        </tr>
-        
-        <tr style="border: none;">
-          <td align="center" style="border: none; padding: 2px;">
-            <img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge">
-            <img src="https://img.shields.io/badge/UAT-217346?style=for-the-badge">
-          </td>
-        </tr>
-        
-      </table>
+      <img src="https://img.shields.io/badge/Requirements_Elicitation-217346?style=for-the-badge">
+      <br>
+      <img src="https://img.shields.io/badge/Stakeholder_Management-217346?style=for-the-badge">
+      <br>
+      <img src="https://img.shields.io/badge/BRD-217346?style=for-the-badge">
+      <img src="https://img.shields.io/badge/FRS-217346?style=for-the-badge">
+      <img src="https://img.shields.io/badge/User_Stories-217346?style=for-the-badge">
+      <img src="https://img.shields.io/badge/RTM-217346?style=for-the-badge">
+      <br>
+      <img src="https://img.shields.io/badge/Wireframing-F24E1E?style=for-the-badge">
+      <img src="https://img.shields.io/badge/UAT-217346?style=for-the-badge">
     </td>
   </tr>
 </table>
