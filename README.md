@@ -6,8 +6,26 @@
   <br><br>
   I am a hybrid analyst skilled in data-driven problem-solving, whether that means using <b>Python</b> and <b>SQL</b> to analyze complex datasets or defining clear <b>business requirements (BRDs, UML, User Stories)</b>.
   <br><br>
-  This portfolio details my professional experience, my core competencies, and my projects. I am actively seeking a full-time role where I can empower your organization to make smarter, data-driven decisions.
+  This portfolio details my projects, professional experience, and core competencies. I am actively seeking a full-time role where I can empower your organization to make smarter, data-driven decisions.
 </p>
+
+---
+
+<h3 align="center">My Projects</h3>
+
+<h4><a href="https://github.com/mkyaduvanshi555/E-commerce-Growth-Analysis">Project 1: E-commerce Recommendation Engine</a></h4>
+<ul>
+  <li>Built a core recommendation logic by analyzing 500k+ transactions using Python (Pandas and Mlxtend Apriori algorithm).</li>
+  <li>Proved project ROI by simulating an A/B test and building a Tableau KPI dashboard, achieving a <b>+6.29% lift in AOV</b> and <b>+4.84% lift in Conversion Rate</b>.</li>
+  <li>Managed the full project lifecycle, identifying the core business problem (Low AOV) and authoring key BA artifacts (BRD, As-Is/To-Be, FRS, User Stories).</li>
+</ul>
+
+<h4><a href="https://github.com/mkyaduvanshi555/Diwali-Retail-Analytics">Project 2: Diwali Retail Analytics & Customer Segmentation</a></h4>
+<ul>
+  <li>Performed complete data cleaning and analysis on Diwali sales data using Python (Pandas), Advanced Excel (Pivot Tables), and MySQL.</li>
+  <li>Identified key business insights, such as top customer segments (Females 26-35) and high-value states (UP, MH), to inform future marketing strategy.</li>
+  <li>Developed and published an interactive Tableau dashboard to visualize all findings for non-technical stakeholders.</li>
+</ul>
 
 ---
 
@@ -80,9 +98,10 @@
       <img src="https://img.shields.io/badge/UML-F08705?style=for-the-badge">
       <img src="https://img.shields.io/badge/BPMN-F08705?style=for-the-badge">
     </td> 
-    <td align="center" width="250">
+    <td align="center" width="250" valign="top">
       <b>Core BA Skills</b><br>
       <img src="https://img.shields.io/badge/Requirements_Elicitation-217346?style=for-the-badge">
+      <br>
       <img src="https://img.shields.io/badge/Stakeholder_Management-217346?style=for-the-badge">
       <br>
       <img src="https://img.shields.io/badge/BRD-217346?style=for-the-badge">
@@ -108,21 +127,42 @@
 
 ---
 
-<h3 align="center">My Projects</h3>
+<h3 align="center">My Certifications</h3>
 
-<h4><a href="https://github.com/mkyaduvanshi555/E-commerce-Growth-Analysis">Project 1: E-commerce Recommendation Engine</a></h4>
-<ul>
-  <li>Built a core recommendation logic by analyzing 500k+ transactions using Python (Pandas and Mlxtend Apriori algorithm).</li>
-  <li>Proved project ROI by simulating an A/B test and building a Tableau KPI dashboard, achieving a <b>+6.29% lift in AOV</b> and <b>+4.84% lift in Conversion Rate</b>.</li>
-  <li>Managed the full project lifecycle, identifying the core business problem (Low AOV) and authoring key BA artifacts (BRD, As-Is/To-Be, FRS, User Stories).</li>
-</ul>
-
-<h4><a href="https://github.com/mkyaduvanshi555/Diwali-Retail-Analytics">Project 2: Diwali Retail Analytics & Customer Segmentation</a></h4>
-<ul>
-  <li>Performed complete data cleaning and analysis on Diwali sales data using Python (Pandas), Advanced Excel (Pivot Tables), and MySQL.</li>
-  <li>Identified key business insights, such as top customer segments (Females 26-35) and high-value states (UP, MH), to inform future marketing strategy.</li>
-  <li>Developed and published an interactive Tableau dashboard to visualize all findings for non-technical stakeholders.</li>
-</ul>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Career_Essentials_in_Business_Analysis-Microsoft-0078D4?style=for-the-badge&logo=microsoft">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Career_Essentials_in_Data_Analysis-Microsoft-0078D4?style=for-the-badge&logo=microsoft">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Agile_Scrum_Master-Simplilearn-1DA1F2?style=for-the-badge&logo=simplilearn">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Business_Analyst_Course-NTI-blue?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Generative_AI_for_Beginners-Simplilearn-1DA1F2?style=for-the-badge&logo=simplilearn">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Power_BI_Data_Modelling-Simplilearn-1DA1F2?style=for-the-badge&logo=simplilearn">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Python_(Basic)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Manual_Software_Testing-MindLuster-FFD700?style=for-the-badge">
+    </td>
+  </tr>
+</table>
 
 ---
 
